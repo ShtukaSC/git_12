@@ -8,6 +8,7 @@ master-master позволяет копировать данные с одног
 В режиме master-master все сервера равноценны и могут обрабатывать любые запросы, но она сложнее и если один из серверов падает, вы можете получить повреждение данных.
 
 Задание 2
+
 ![image](https://github.com/user-attachments/assets/c304f98c-a020-4914-90cc-78793f81397f)
 ![image](https://github.com/user-attachments/assets/d1b7d777-101e-4e62-ad6b-8217176c1327)
 ![image](https://github.com/user-attachments/assets/1e9ad4d7-df29-4810-8530-2eceeab6959c)
